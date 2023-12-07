@@ -36,3 +36,10 @@ Berikut ini adalah langkah-langkah untuk menyebarkan dan menempa token di lingku
    ```
    node index.js
    ```
+
+# **Lari Cepat**
+   Buka file `index.js` dan atur beberapa mnemonik
+   Jalankan setelah menyelesaikan konfigurasi
+   ```
+   chmod +x run.sh && ./run.sh
+   ```
